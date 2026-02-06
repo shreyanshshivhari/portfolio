@@ -590,9 +590,10 @@ section {
 
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
 }
+
 
 .project-card {
     background: var(--card-bg);
