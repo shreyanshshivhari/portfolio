@@ -24,26 +24,26 @@ portfolio/
 
 ## 🚀 Featured Projects
 
-### 1. **YieldStable - Ethereum Yield Token** 🪙
-A revolutionary DeFi protocol combining stablecoin mechanics with automatic yield generation, similar to Reflect.money:
-- Automatic yield distribution to holders
-- Stablecoin pegging mechanism
-- Gas-optimized smart contracts
-- **Tech Stack**: Solidity, Ethereum, Web3.js, OpenZeppelin, Hardhat
+### 1. **REDACTRA – AI Security Guard** 🛡️
+An AI-powered security layer to detect jailbreak prompts, harmful intent, and sensitive data leakage before LLM processing:
+- Real-time threat classification using TF-IDF and Logistic Regression
+- Jailbreak prompt and sensitive PII data leakage detection
+- Probability-based threat scoring with Streamlit UI
+- **Tech Stack**: Python, NLP, TF-IDF, Logistic Regression, Streamlit
 
-### 2. **EcoMarket - Sustainable E-Commerce Platform** 🛒
-A comprehensive e-commerce solution focused on sustainable products:
-- AI-powered product recommendations
-- Carbon footprint tracking
-- Multi-vendor support system
-- **Tech Stack**: React, Node.js, MongoDB, Stripe, Redis, AWS S3
+### 2. **Checkmate – Duplicate File Detector Using AI** ♟️
+Local-first AI tool for detecting duplicate and near-duplicate files:
+- Content similarity analysis using vector similarity and TF-IDF
+- Recursive directory scanning independent of file names
+- CLI + Web UI with complete offline processing
+- **Tech Stack**: Python, TF-IDF, Vector Similarity, Cosine Similarity
 
-### 3. **StreamChain - Decentralized Video Platform** 📺
-Revolutionary streaming platform with blockchain-based per-minute payments:
-- Creators get paid per minute watched
-- IPFS decentralized storage
-- Real-time revenue tracking
-- **Tech Stack**: Solidity, React, IPFS, Web3.js, WebRTC, Node.js
+### 3. **Strategic Product Placement Analysis** 📊
+Interactive business intelligence dashboard and retail analytics:
+- Analyzed product positioning, pricing, promotions, and foot traffic
+- Interactive Tableau dashboards embedded with Bootstrap and GitHub Pages
+- Data-driven retail recommendations based on customer buying patterns
+- **Tech Stack**: Tableau, Kaggle, Bootstrap, GitHub Pages, Retail Analytics
 
 ## 🎨 Dark Mode Design
 
